@@ -1,5 +1,8 @@
 
 # rudie
+
+[![Join the chat at https://gitter.im/rudieIOS/Lobby](https://badges.gitter.im/rudieIOS/Lobby.svg)](https://gitter.im/rudieIOS/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bridge between iOS devices and MiaoMiao with Nightscout integration
 
 **Expect code during the weekend, notice will be posted on the facebook groups and elsewhere**
